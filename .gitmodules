@@ -1,0 +1,18 @@
+[submodule "submodules/quickstart-aws-vpc"]
+	path = submodules/quickstart-aws-vpc
+	url = https://github.com/aws-quickstart/quickstart-aws-vpc.git
+[submodule "submodules/quickstart-microsoft-activedirectory"]
+	path = submodules/quickstart-microsoft-activedirectory
+	url = https://github.com/aws-quickstart/quickstart-microsoft-activedirectory.git
+[submodule "submodules/quickstart-microsoft-sql"]
+	path = submodules/quickstart-microsoft-sql
+	url = https://github.com/aws-quickstart/quickstart-microsoft-sql.git
+[submodule "submodules/quickstart-microsoft-sharepoint"]
+	path = submodules/quickstart-microsoft-sharepoint
+	url = https://github.com/aws-quickstart/quickstart-microsoft-sharepoint.git
+[submodule "submodules/quickstart-microsoft-exchange"]
+	path = submodules/quickstart-microsoft-exchange
+	url = https://github.com/aws-quickstart/quickstart-microsoft-exchange.git
+[submodule "submodules/quickstart-microsoft-rdgateway"]
+	path = submodules/quickstart-microsoft-rdgateway
+	url = https://github.com/aws-quickstart/quickstart-microsoft-rdgateway.git
